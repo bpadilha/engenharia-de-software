@@ -12,3 +12,4 @@ Pesquisa realizada sobre os principais processos de desenvolvimento de software.
 * Bruno Padilha
 * João Pedro S. Rezende
 * Lucas S. Costas
+* Weberson Azevedo
