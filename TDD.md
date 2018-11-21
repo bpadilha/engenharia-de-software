@@ -6,7 +6,7 @@ O desenvolvimento de software é um trabalho exigente e passível de falhas. Nas
 
 O **Test Driven Development (TDD)** ou em português Desenvolvimento Orientado por Testes -  é uma técnica de desenvolvimento de software que se relaciona com o conceito de verificação e validação e se baseia em um ciclo curto de repetições.
 
-Mais do que simplesmente testar seu código, **TDD** é uma filosofia, uma cultura, sendo considerado um novo jeito de programar, sendo esta uma técnica empregada no desenvolvimento de softwares baseado em testes que são escritos antes mesmo do código de produção.
+Mais do que simplesmente testar seu código, TDD é uma filosofia, uma cultura, sendo considerado um novo jeito de programar, sendo esta uma técnica empregada no desenvolvimento de softwares baseado em testes que são escritos antes mesmo do código de produção.
 
 As técnicas de teste de software para o desenvolvimento de produtos, muito embora muitas empresas não as utilizarem alegando o atraso, o tempo ou o custo para esta tarefa, vem sendo indicadas pelas pesquisas como grande ajuda na garantia de qualidade do software.
 
